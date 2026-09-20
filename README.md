@@ -14,7 +14,7 @@ Seorap helps users compare products they own, review ingredients and usage feedb
 - Improved ingredient-name recall from **0.84 to 0.91** through OCR fine-tuning, evaluated on 105 labeled studio images with separate products for training and evaluation.
 - Compared skin-observation models, applied knowledge distillation, and expanded Korean catalog coverage through name normalization and category refinement.
 
-[Case study](https://cwj0666.github.io/#seorap) · [Live app](https://seorap-beauty.vercel.app/)
+[Case study](https://cwj0666.github.io/seorap.html) · [Live app](https://seorap-beauty.vercel.app/)
 
 ### CMS
 **Energy data platform** · May – Jun 2026
@@ -24,7 +24,7 @@ CMS collects, validates, and aggregates meter events for models and dashboards. 
 - Designed PostgreSQL schemas to separate raw events, processing policies, aggregate results, and approved observations.
 - Built ingestion and **1-minute, 15-minute, and hourly aggregation** pipelines, with Grafana monitoring and ingestion recovery.
 
-[Case study](https://cwj0666.github.io/#cms)
+[Case study](https://cwj0666.github.io/cms.html)
 
 ### Cofathon
 **Wellness campaign automation** · Jul 2026
@@ -34,7 +34,7 @@ The MVP connects product curation, copy generation, operator review, and publish
 - Delivered the MVP in **4 hours** using parallel AI-agent development and independent review.
 - Defined shared data contracts and task ownership, then verified each stage with type checks, regression tests, and commits.
 
-[Case study](https://cwj0666.github.io/#cofathon)
+[Case study](https://cwj0666.github.io/cofathon.html)
 
 ## Tech Stack
 

@@ -2,8 +2,6 @@
 
 I build backend services and data pipelines, and evaluate AI models for product features. I am currently developing **Seorap**, where I lead product planning, backend development, catalog processing, and model evaluation.
 
-[**Portfolio**](https://cwj0666.github.io/) &nbsp; · &nbsp; [**Seorap App**](https://seorap-beauty.vercel.app/) &nbsp; · &nbsp; [**Email**](mailto:cwj0666@gmail.com)
-
 ## Selected Projects
 
 ### Seorap

@@ -67,6 +67,6 @@ The MVP connects product curation, copy generation, operator review, and publish
 
 ---
 
-[cwj0666@gmail.com](mailto:cwj0666@gmail.com) · [Portfolio](https://cwj0666.github.io/)
+[cwj0666@gmail.com](mailto:cwj0666@gmail.com)
 
 <sub>Technology icons: Simple Icons.</sub>
